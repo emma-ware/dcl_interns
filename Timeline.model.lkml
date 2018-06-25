@@ -16,6 +16,7 @@ view: dcl_internship_timeline {
               UNION ALL SELECT 'Modeling' as step, 3 as start_date, 6 as end_date
               UNION ALL SELECT 'Project Check-in' as step, 5 as start_date, 6 as end_date
               UNION ALL SELECT 'Pod Projects' as step, 4 as start_date, 7 as end_date
+              UNION ALL SELECT 'Attend Pod Meetings' as step, 2 as start_date, 7 as end_date
               UNION ALL SELECT 'Bi-Weekly Mentor Check-In' as step, 1 as start_date, 9 as end_date
 
 
